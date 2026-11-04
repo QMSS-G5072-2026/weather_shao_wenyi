@@ -1,3 +1,5 @@
+[![ci-cd](https://github.com/QMSS-G5072-2026/weather_shao_wenyi/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_shao_wenyi/actions/workflows/ci-cd.yml)
+
 # weather_ws2800
 
 Weather station utilities for converting and cleaning temperature readings
